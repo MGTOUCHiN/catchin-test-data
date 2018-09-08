@@ -1,128 +1,84 @@
-{
-	"game-time": [
-		{
-			"type": "int"
-		},
-		{
-			"data": 25
-		}
-	],
-	"get-count": [
-		{
-			"type": "int"
-		},
-		{
-			"data": 5
-		}
-	],
-	"get-chances": [
-		{
-			"type": "array-float"
-		},
-		{
-			"data": [
-				0.1,
-				0.3,
-				0.5,
-				0.7,
-				1
-			]
-		}
-	],
-	"prize-names-cook": [
-		{
-			"type": "array-string"
-		},
-		{
-			"data": [
-				"小小兵玩偶",
-				"泰迪熊寶寶",
-				"小鴨子"
-			]
-		}
-	],
-	"prize-imgs-cook": [
-		{
-			"type": "array-image"
-		},
-		{
-			"data": [
-				"https://mgtouchin.github.io/catchin-test-data/images/toy-01.jpg",
-				"https://mgtouchin.github.io/catchin-test-data/images/toy-02.jpg",
-				"https://mgtouchin.github.io/catchin-test-data/images/toy-03.jpg"
-			]
-		}
-	],
-	"prize-names-gentleman": [
-		{
-			"type": "array-string"
-		},
-		{
-			"data": [
-				"爐石遊戲卡冊",
-				"戈爾泰詩集",
-				"Remi 插畫集"
-			]
-		}
-	],
-	"prize-imgs-gentleman": [
-		{
-			"type": "array-image"
-		},
-		{
-			"data": [
-				"https://mgtouchin.github.io/catchin-test-data/images/book-01.png",
-				"https://mgtouchin.github.io/catchin-test-data/images/book-02.png",
-				"https://mgtouchin.github.io/catchin-test-data/images/book-03.jpg"
-			]
-		}
-	],
-	"prize-names-warrior": [
-		{
-			"type": "array-string"
-		},
-		{
-			"data": [
-				"復古手持電玩模型",
-				"SFC 懷舊玩具",
-				"迷你小精靈電玩"
-			]
-		}
-	],
-	"prize-imgs-warrior": [
-		{
-			"type": "array-image"
-		},
-		{
-			"data": [
-				"https://mgtouchin.github.io/catchin-test-data/images/videogame-01.png",
-				"https://mgtouchin.github.io/catchin-test-data/images/videogame-02.jpg",
-				"https://mgtouchin.github.io/catchin-test-data/images/videogame-03.jpg"
-			]
-		}
-	],
-	"prize-names-flower": [
-		{
-			"type": "array-string"
-		},
-		{
-			"data": [
-				"TOUCHiN AR 卡片集",
-				"手繪風明信片",
-				"設計風明信片"
-			]
-		}
-	],
-	"prize-imgs-flower": [
-		{
-			"type": "array-image"
-		},
-		{
-			"data": [
-				"https://mgtouchin.github.io/catchin-test-data/images/postcard-01.jpg",
-				"https://mgtouchin.github.io/catchin-test-data/images/postcard-02.jpg",
-				"https://mgtouchin.github.io/catchin-test-data/images/postcard-03.jpg"
-			]
-		}
-	]
+{  
+   "game-time":{  
+      "type":"int",
+      "data":25
+   },
+   "get-count":{  
+      "type":"int",
+      "data":5
+   },
+   "get-chances":{  
+      "type":"array-float",
+      "data":[  
+         0.1,
+         0.3,
+         0.5,
+         0.7,
+         1
+      ]
+   },
+   "prize-names-cook":{  
+      "type":"array-string",
+      "data":[  
+         "小小兵玩偶",
+         "泰迪熊寶寶",
+         "小鴨子"
+      ]
+   },
+   "prize-imgs-cook":{  
+      "type":"array-image",
+      "data":[  
+         "https://mgtouchin.github.io/catchin-test-data/images/toy-01.jpg",
+         "https://mgtouchin.github.io/catchin-test-data/images/toy-02.jpg",
+         "https://mgtouchin.github.io/catchin-test-data/images/toy-03.jpg"
+      ]
+   },
+   "prize-names-gentleman":{  
+      "type":"array-string",
+      "data":[  
+         "爐石遊戲卡冊",
+         "戈爾泰詩集",
+         "Remi 插畫集"
+      ]
+   },
+   "prize-imgs-gentleman":{  
+      "type":"array-image",
+      "data":[  
+         "https://mgtouchin.github.io/catchin-test-data/images/book-01.png",
+         "https://mgtouchin.github.io/catchin-test-data/images/book-02.png",
+         "https://mgtouchin.github.io/catchin-test-data/images/book-03.jpg"
+      ]
+   },
+   "prize-names-warrior":{  
+      "type":"array-string",
+      "data":[  
+         "復古手持電玩模型",
+         "SFC 懷舊玩具",
+         "迷你小精靈電玩"
+      ]
+   },
+   "prize-imgs-warrior":{  
+      "type":"array-image",
+      "data":[  
+         "https://mgtouchin.github.io/catchin-test-data/images/videogame-01.png",
+         "https://mgtouchin.github.io/catchin-test-data/images/videogame-02.jpg",
+         "https://mgtouchin.github.io/catchin-test-data/images/videogame-03.jpg"
+      ]
+   },
+   "prize-names-flower":{  
+      "type":"array-string",
+      "data":[  
+         "TOUCHiN AR 卡片集",
+         "手繪風明信片",
+         "設計風明信片"
+      ]
+   },
+   "prize-imgs-flower":{  
+      "type":"array-image",
+      "data":[  
+         "https://mgtouchin.github.io/catchin-test-data/images/postcard-01.jpg",
+         "https://mgtouchin.github.io/catchin-test-data/images/postcard-02.jpg",
+         "https://mgtouchin.github.io/catchin-test-data/images/postcard-03.jpg"
+      ]
+   }
 }
