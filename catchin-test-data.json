@@ -1,51 +1,128 @@
 {
-	"game-time": 25,
-	"get-count": 5,
+	"game-time": [
+		{
+			"type": "int"
+		},
+		{
+			"data": 25
+		}
+	],
+	"get-count": [
+		{
+			"type": "int"
+		},
+		{
+			"data": 5
+		}
+	],
 	"get-chances": [
-		0.1,
-		0.3,
-		0.5,
-		0.7,
-		1
+		{
+			"type": "array-float"
+		},
+		{
+			"data": [
+				0.1,
+				0.3,
+				0.5,
+				0.7,
+				1
+			]
+		}
 	],
 	"prize-names-cook": [
-		"小小兵玩偶",
-		"泰迪熊寶寶",
-		"小鴨子"
+		{
+			"type": "array-string"
+		},
+		{
+			"data": [
+				"小小兵玩偶",
+				"泰迪熊寶寶",
+				"小鴨子"
+			]
+		}
 	],
 	"prize-imgs-cook": [
-		"images/toy-01.jpg",
-		"images/toy-02.jpg",
-		"images/toy-03.jpg"
+		{
+			"type": "array-image"
+		},
+		{
+			"data": [
+				"https://mgtouchin.github.io/catchin-test-data/images/toy-01.jpg",
+				"https://mgtouchin.github.io/catchin-test-data/images/toy-02.jpg",
+				"https://mgtouchin.github.io/catchin-test-data/images/toy-03.jpg"
+			]
+		}
 	],
 	"prize-names-gentleman": [
-		"爐石遊戲卡冊",
-		"戈爾泰詩集",
-		"Remi 插畫集"
+		{
+			"type": "array-string"
+		},
+		{
+			"data": [
+				"爐石遊戲卡冊",
+				"戈爾泰詩集",
+				"Remi 插畫集"
+			]
+		}
 	],
 	"prize-imgs-gentleman": [
-		"images/book-01.png",
-		"images/book-02.png",
-		"images/book-03.jpg"
+		{
+			"type": "array-image"
+		},
+		{
+			"data": [
+				"https://mgtouchin.github.io/catchin-test-data/images/book-01.png",
+				"https://mgtouchin.github.io/catchin-test-data/images/book-02.png",
+				"https://mgtouchin.github.io/catchin-test-data/images/book-03.jpg"
+			]
+		}
 	],
 	"prize-names-warrior": [
-		"復古手持電玩模型",
-		"SFC 懷舊玩具",
-		"迷你小精靈電玩"
+		{
+			"type": "array-string"
+		},
+		{
+			"data": [
+				"復古手持電玩模型",
+				"SFC 懷舊玩具",
+				"迷你小精靈電玩"
+			]
+		}
 	],
 	"prize-imgs-warrior": [
-		"images/videogame-01.png",
-		"images/videogame-02.jpg",
-		"images/videogame-03.jpg"
+		{
+			"type": "array-image"
+		},
+		{
+			"data": [
+				"https://mgtouchin.github.io/catchin-test-data/images/videogame-01.png",
+				"https://mgtouchin.github.io/catchin-test-data/images/videogame-02.jpg",
+				"https://mgtouchin.github.io/catchin-test-data/images/videogame-03.jpg"
+			]
+		}
 	],
 	"prize-names-flower": [
-		"TOUCHiN AR 卡片集",
-		"手繪風明信片",
-		"設計風明信片"
+		{
+			"type": "array-string"
+		},
+		{
+			"data": [
+				"TOUCHiN AR 卡片集",
+				"手繪風明信片",
+				"設計風明信片"
+			]
+		}
 	],
 	"prize-imgs-flower": [
-		"images/postcard-01.jpg",
-		"images/postcard-02.jpg",
-		"images/postcard-03.jpg"
+		{
+			"type": "array-image"
+		},
+		{
+			"data": [
+				"https://mgtouchin.github.io/catchin-test-data/images/postcard-01.jpg",
+				"https://mgtouchin.github.io/catchin-test-data/images/postcard-02.jpg",
+				"https://mgtouchin.github.io/catchin-test-data/images/postcard-03.jpg"
+			]
+		}
 	]
 }
