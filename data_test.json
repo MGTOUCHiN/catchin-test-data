@@ -3,72 +3,12 @@
   "Error": "",
   "AR": [
     {
-      "ID": "3278",
-      "ARName": "測試圍巾",
-      "ARPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180309154040555.unity3d",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180309154040555_s.png",
-      "OutPicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180309154040555_out.unity3d",
-      "Version": "4",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180309154040555.unity3dwin",
-      "Gyro": 0
-    },
-    {
-      "ID": "3392",
-      "ARName": "N90",
-      "ARPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180517163608982.unity3d",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180517163608982_s.png",
-      "OutPicPath": "",
-      "Version": "7",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180517163608982.unity3dwin",
-      "Gyro": 0
-    },
-    {
-      "ID": "3443",
-      "ARName": "shose",
-      "ARPath": "",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180615093904181_s.png",
-      "OutPicPath": "",
-      "Version": "4",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180615093904181.unity3dwin",
-      "Gyro": 0
-    },
-    {
-      "ID": "3446",
-      "ARName": "2017test",
-      "ARPath": "",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180619165342380_s.png",
-      "OutPicPath": "",
-      "Version": "1",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180619165342380.unity3dwin",
-      "Gyro": 0
-    },
-    {
-      "ID": "3448",
-      "ARName": "aa",
-      "ARPath": "",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621151854096_s.png",
-      "OutPicPath": "",
-      "Version": "3",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621151854096.unity3dwin",
-      "Gyro": 0
-    },
-    {
-      "ID": "3450",
-      "ARName": "touchin",
-      "ARPath": "",
-      "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621174818307_s.png",
-      "OutPicPath": "",
-      "Version": "5",
-      "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621174818307.unity3dwin",
-      "Gyro": 0
-    },
-    {
       "ID": "3451",
       "ARName": "santa",
-      "ARPath": "",
+      "ARPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621180226085.unity3d",
       "PicPath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621180226085_s.png",
       "OutPicPath": "",
-      "Version": "1",
+      "Version": "2",
       "WinARpath": "http://ds.clicklink.com.tw/s/C100094/ar_20180621180226085.unity3dwin",
       "Gyro": 0
     }
